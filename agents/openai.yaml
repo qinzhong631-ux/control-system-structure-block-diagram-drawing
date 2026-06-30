@@ -1,0 +1,4 @@
+interface:
+  display_name: "Control System Structure Block Diagram Drawing"
+  short_description: "Academic control block diagram drawing"
+  default_prompt: "Draw a rigorous academic control-system structure block diagram from the provided reference, preserving topology, summing signs, branch points, feedback paths, and readable Chinese labels."
